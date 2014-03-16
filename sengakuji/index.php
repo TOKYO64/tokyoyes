@@ -1,7 +1,7 @@
 <?php ob_start();
 require '/home/tokyo64/inc_tokyo/config_inc.php'; #provides configuration, pathing, error handling, db credentials
 get_header();
-$config->titleTag = 'Eat Tokyo | &#8211; An Experience in Tokyo';
+$config->titleTag = 'Sengakuji | &#8211; An Experience in Tokyo';
 
 ?>
 <div class="container sengakuji">
